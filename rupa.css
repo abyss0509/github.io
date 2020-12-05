@@ -1,0 +1,22 @@
+body{
+  background-color: #f7fbff;
+}
+
+h1{
+  background-color: #73badc;
+  color: #fff;
+}
+
+
+#favorite{
+  color: #1b942f;
+}
+
+.special{
+  color: #c72626;
+}
+
+
+#sns{
+  border:#73badc 5px solid;
+}
